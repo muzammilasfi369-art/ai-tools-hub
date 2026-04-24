@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aitools-hub.online/sitemap.xml
